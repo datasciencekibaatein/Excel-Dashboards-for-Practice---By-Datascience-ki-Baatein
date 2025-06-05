@@ -1,1 +1,1 @@
-![DemoImage]("Demo Image.png")
+![DemoImage]("Demoimage.png")
